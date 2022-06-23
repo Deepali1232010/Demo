@@ -25,10 +25,13 @@ public class ZerodhaHomeTest {
 	public void add(int a,int b) {
 		System.out.println(a+b);
 	}
-	
-	@Test
-	public void validatehomepage() {
-		System.out.println("verifyhome");
-	}
+		@Test
+		public void Demo() {
+			System.out.println("demo automation");
+		}
+		@Test
+		public void mahesh() {
+			System.out.println("demo mahesh");
+		}
 		
 }
